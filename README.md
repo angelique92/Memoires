@@ -1,4 +1,4 @@
-### 📘 Mémoire 2024 : GreenMapper - Cartographier la Nature avec l'IA
+### 📘 Mémoire 2024 : GreenMapper - Comptage d’arbres et segmentation des couronnes grâce au Deep Learning
 
 ## Stage 2024 : TotalEnergies, R&D Nature Based Solutions et GéoSpatial
 
@@ -19,7 +19,7 @@ Lors de ce stage de six mois, j'ai contribué au projet **GreenMapper**, une ini
 Impact :
 Ce projet m'a permis d'approfondir mes compétences en vision par ordinateur et d'acquérir une expérience précieuse dans un environnement multidisciplinaire dynamique, tout en contribuant à des résultats concrets.
 
-### 📘 Mémoire 2023 : Analyse des Projets AFOLU - Nature Based Solutions
+### 📘 Mémoire 2023 : Prédiction de potentiel de production de crédits carbone sur des projets AFOLUs- Nature Based Solutions
 
 ## Stage 2023 : TotalEnergies, Nature Based Solutions
 
